@@ -7,7 +7,7 @@ package com.mycompany.sistemagestion;
 
 /**
  *
- * @author Estefanía
+ * @author Estefanía Santana
  */
 public class Main {
     
